@@ -1,0 +1,2 @@
+---- HAL_GPIO_EXTI_Callback Matches (1 in 0 files) ----
+drv_softi2c_bq769x0.c (F:\bms-Rtthread\User\Drivers) line 163 : void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)

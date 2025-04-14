@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/peripherals/at24cxx", 
+  "ver": "latest", 
+  "name": "AT24CXX"
+ }, 
+ {
+  "path": "/packages/peripherals/bluetrum_sdk", 
+  "ver": "latest", 
+  "name": "BLUETRUM_SDK"
+ }
+]
